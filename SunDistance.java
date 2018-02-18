@@ -19,4 +19,38 @@ public class SunDistance {
 	public double URANUS = 2.87*Math.pow(10, 12);
 	public double NEPTUNE = 4.50*Math.pow(10,12);
 	
+	public double getDistanceMercury() {
+		return MERCURY;
+	}
+	
+	public double getDistanceVenus() {
+		return VENUS;
+	}
+	
+	public double getDistanceEarth() {
+		return EARTH;
+	}
+	
+	public double getDistanceMars() {
+		return MARS;
+	}
+	
+	public double getDistanceJupiter() {
+		return JUPITER;
+	}
+	
+	public double getDistanceSaturn() {
+		return SATURN;
+	}
+	
+	public double getDistanceUranus() {
+		return URANUS;
+	}
+	
+	public double getDistanceNeptune() {
+		return NEPTUNE;
+	}
+		
+
+	
 }
