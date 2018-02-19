@@ -8,8 +8,8 @@
  * ********************************************************************************* */
 package space;
 
+//planet trip around sun duration in Earth days
 public class EarthDays {
-	
 	public final double MERCURY =  88.03;
 	public final double VENUS =  224.63;
 	public final double EARTH =  365.25;

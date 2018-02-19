@@ -9,8 +9,8 @@
 
 package space;
 
+//planet masses in kg
 public class Mass {
-	
 	public final double MERCURY = 3.18 * Math.pow(10,23);
 	public final double VENUS = 4.88 * Math.pow(10,24);
 	public final double EARTH = 5.98 * Math.pow(10,24);

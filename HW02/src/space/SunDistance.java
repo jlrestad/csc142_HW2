@@ -8,7 +8,7 @@
  * ********************************************************************************* */
 package space;
 
-//planet distances from the sun
+//planet distances from the sun in m
 public class SunDistance {  
 	public final double MERCURY = 5.79*Math.pow(10, 10);
 	public final double VENUS = 1.08*Math.pow(10, 11);

@@ -9,8 +9,8 @@
 
 package space;
 
+//planet mean radii in m
 public class Radius {
-	
 	public final double MERCURY = 2.43 * Math.pow(10,5);
 	public final double VENUS = 6.06 * Math.pow(10,5);
 	public final double EARTH = 6.37 * Math.pow(10,5);
