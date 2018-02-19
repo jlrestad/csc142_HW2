@@ -4,7 +4,7 @@
  * Author(s): 			Jes Restad
  * Title: 				HW02
  * Description: 		Lists constants for the planet distances from the sun.
- * Last Updated: 		February 16th, 2018 
+ * Last Updated: 		February 18th, 2018 
  * ********************************************************************************* */
 package space;
 
