@@ -7,7 +7,6 @@
  * Last Updated: 		February 19th, 2018 
  * ********************************************************************************* */
 package space;
-
 import java.text.DecimalFormat;
 
 //define and print out planet
