@@ -75,8 +75,8 @@ public class Planet {
 	}
 	*/
 	
-	public double getSpeedofOrbit(double r, double p) {
-		return (2 * PI * (r / TO_MILES)) / (p * TO_DAYS );   //approx orbital speed in miles/hr
+	public double getSpeedofOrbit(double r, double tdays) {
+		return (2 * PI * (r / TO_MILES)) / (tdays * TO_DAYS );   //approx orbital speed in miles/hr
 	}
 	
 	//print planet data, formatted to two decimal places
