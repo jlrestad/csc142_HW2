@@ -2,8 +2,8 @@
  * Program Name:		Person.java
  * Date Created:		February 16th, 2018
  * Author(s): 			Jes Restad
- * Title: 				HW02
- * Description: 		Lists constants for the planet distances from the sun.
+ * Title: 			HW02
+ * Description: 		Stores name, age, and weight of a person.
  * Last Updated: 		February 16th, 2018 
  * ********************************************************************************* */
 package space;
