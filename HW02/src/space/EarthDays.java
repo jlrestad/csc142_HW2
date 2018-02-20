@@ -2,7 +2,7 @@
  * Program Name:		EarthDays.java
  * Date Created:		February 19th, 2018
  * Author(s): 			Marianne Goldin
- * Title: 				HW02
+ * Title:                       HW02
  * Description: 		Lists constants for approx. number of Earth days for a planet to travel around the sun.
  * Last Updated: 		February 19th, 2018 
  * ********************************************************************************* */
