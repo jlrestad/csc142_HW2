@@ -1,10 +1,10 @@
 /* *********************************************************************************
  * Program Name:		Planet.java
  * Date Created:		February 19th, 2018
- * Author(s): 			Marianne Goldin
- * Title: 				HW02
+ * Author(s): 			Marianne Goldin, Jes Restad
+ * Title: 			HW02
  * Description: 		Calculate and print out planet info.
- * Last Updated: 		February 19th, 2018 
+ * Last Updated: 		February 27th, 2018 
  * ********************************************************************************* */
 package space;
 import java.text.DecimalFormat;
