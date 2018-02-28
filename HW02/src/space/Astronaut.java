@@ -25,6 +25,7 @@ public class Astronaut {
     private static final double EARTH_DAYS = 365.25;
     private static final double EARTH_GRAVITY = 9.81; // m/s
     private static final double TO_NEWTONS = 4.448; // 1lb = 4.448N  lb*4.448=N
+    private static final double TO_LBS = 4.448; // N/4.448=lbs
     
     //Constructors
     //Team discussion on best way to implement constructors - add to report
@@ -59,7 +60,7 @@ public class Astronaut {
     }
     
     public double getPlanetaryWeight() {
-    	double mass = ((identity.getWeight() * TO_NEWTONS ) / EARTH_GRAVITY) / TO_NEWTONS; // lbs / 9.81
+    	double mass = ((identity.getWeight() * TO_NEWTONS ) / EARTH_GRAVITY) / TO_LBS // lbs / 9.81
     	return mass * planet.getFreeFall();
     	//mass * planet free fall
     }
