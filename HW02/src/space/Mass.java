@@ -4,7 +4,7 @@
  * Author(s): 			Marianne Goldin
  * Title: 			HW02
  * Description: 		Lists constants for planet masses in kg.
- * Last Updated: 		February 18th, 2018 
+ * Last Updated: 		February 27th, 2018 
  * ********************************************************************************* */
 
 package space;
