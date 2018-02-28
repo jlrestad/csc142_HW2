@@ -7,17 +7,6 @@
  * Description: 		Tests classes
  * Last Updated: 		February 27th, 2018 
  * ********************************************************************************* */
-
-
-/* *********************************************************************************
- * Program Name:		ClassTester.java
- * Date Created:		February 25th, 2018
- * Author(s): 			Marianne Goldin, Jes Restad
- * Title: 				HW02
- * Description: 		Tests classes
- * Last Updated: 		February 27th, 2018 
- * ********************************************************************************* */
-
 package space;
 
 public class Test {
