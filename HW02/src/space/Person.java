@@ -4,7 +4,7 @@
  * Author(s): 			Jes Restad
  * Title: 			HW02
  * Description: 		Stores name, age, and weight of a person.
- * Last Updated: 		February 16th, 2018 
+ * Last Updated: 		February 27th, 2018 
  * ********************************************************************************* */
 package space;
 
@@ -13,6 +13,12 @@ public class Person {
 	private String name;
 	private double age;
 	private double weight;
+	
+	public Person() {
+		name = null;
+		this.age = 0.0;
+		this.weight = 0.0;
+	}
 	
 	public Person(String name, double age, double weight) {
 		this.name = name;
@@ -31,23 +37,5 @@ public class Person {
 	public double getWeight() {
 		return weight;
 	}
-	
-	public void setName(String name) {
-		this.name = name;
-	}
-	
-	public void setAge(double age) {
-		this.age = age;
-	
-	}
-	
-	public void setWeight(double weight) {
-		this.weight = weight;
-	}
-	
-	//..For Testing...
-//	public String newPerson() {
-//		return "Person name: " + this.getName() + "\nPerson age: " + this.getAge() + "\nPerson weight: " + this.getWeight();
-//	}
 	
 }
